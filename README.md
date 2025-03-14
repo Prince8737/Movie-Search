@@ -21,7 +21,7 @@ This project allows users to search for movies, view detailed information, and a
 ## Installation
 ```bash
 1. Clone the repository:
-git clone https://github.com/yourusername/movie-search-app.git
+git clone https://github.com/Prince8737/movie-search-app.git
 
 2. Navigate to the project folder:
 Copy code
