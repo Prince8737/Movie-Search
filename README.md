@@ -57,7 +57,6 @@ src
 
 API Reference
 OMDB API: https://www.omdbapi.com/
-API Key: a31b1bf0
 Acknowledgments
 OMDB for providing the movie data.
 React community for the inspiration.
