@@ -7,7 +7,7 @@ body {
     line-height: 1.6;
 }
 
-/* Search Bar */
+
 .search-bar {
     display: flex;
     justify-content: center;
@@ -42,7 +42,7 @@ body {
     background: #f40612;
 }
 
-/* Movie Grid */
+
 .movie-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -51,7 +51,7 @@ body {
     justify-content: center;
 }
 
-/* Movie Card */
+
 .movie-card {
     background: #1e1e1e;
     border-radius: 10px;
@@ -76,14 +76,14 @@ body {
     color: #ffffff;
 }
 
-/* Loading State */
+
 .loading {
     text-align: center;
     margin: 20px 0;
     font-size: 1.2rem;
 }
 
-/* Error and No Movies Message */
+
 .error-message, .no-movies {
     text-align: center;
     color: #ffffff;
@@ -91,7 +91,7 @@ body {
     font-size: 1.2rem;
 }
 
-/* Movie Detail */
+
 .movie-detail {
     max-width: 800px;
     margin: 40px auto;
@@ -116,7 +116,7 @@ body {
     margin-top: 20px;
 }
 
-/* Buttons */
+
 .back-button, .favorite-btn {
     background: #e50914;
     color: white;
