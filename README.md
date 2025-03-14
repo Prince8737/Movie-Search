@@ -19,26 +19,30 @@ This project allows users to search for movies, view detailed information, and a
 - OMDB API  
 - CSS for styling  
 ## Installation
-1. Clone the repository:
 ```bash
+1. Clone the repository:
 git clone https://github.com/yourusername/movie-search-app.git
+
 2. Navigate to the project folder:
-bash
 Copy code
 cd movie-search-app
+
 3. Install dependencies:
 bash
 Copy code
 npm install
-##Usage
+
+Usage
 Run the app:
 bash
 Copy code
 npm start
+
 Open your browser and go to:
 plaintext
 Copy code
 http://localhost:3000
+
 Project Structure
 css
 Copy code
@@ -50,6 +54,7 @@ src
 ├── SkeletonLoader.js
 ├── index.js
 └── App.css
+
 API Reference
 OMDB API: https://www.omdbapi.com/
 API Key: a31b1bf0
